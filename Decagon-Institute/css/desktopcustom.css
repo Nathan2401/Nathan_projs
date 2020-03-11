@@ -1,0 +1,50 @@
+body{padding:0;margin:0;}
+html{font-size:20px;}
+*{box-sizing:border-box;}
+.home-banner{height:600px;background-image:url(../img/home-banner.jpg);background-repeat:no-repeat;background-position:center center;background-size:100%;}
+.col-sm-12.text-center.text-white{margin-top:100px;}
+.col-sm-12.text-center.text-white h1{font-size:5rem;font-weight:bolder;}
+.col-sm-12.text-center.text-white p{font-size:1.5rem;}
+.btn-success.btn-lg{font-size:1rem;width:400px;height:75px;border-radius:30px;margin-right:40px;background-color:#34a853;border:#34a853;font-weight:bold;}
+.btn-warning.btn-lg{font-size:1rem;width:400px;height:75px;border-radius:30px;background-color:#b8d344;border:#b8d344;font-weight:bold;}
+.btn-success.btn-lg:hover{background-color:#0b923c;border:#0b923c;color:#fff;font-weight:bold;}
+.btn-warning.btn-lg:hover{background-color:#0b923c;border:#0b923c;color:#fff;font-weight:bold;}
+.img1{width:150px;}
+.navbar-toggler{border:none;font-size:50px;}
+.navbar-toggler:focus{border:none;}
+.Bcm{margin-top:180px;}
+.Bcm h3{font-size:3rem;font-weight:bolder;margin-bottom:30px;}
+.lead{font-size:2rem;margin:0 15px;color:#767676;}
+.lrn{width:100%;height:1000px;background-color:#f4f4f4;margin-top:100px;}
+.why-decag{height:1000px;}
+.top{font-size:50px;color:#737373;}
+.lrn h5{font-size:1.5rem;}
+.lrn p{font-size:1.2rem;color:#767676;}
+.lrn .why-col-1{padding-left:130px;}
+.lrn .why-col-2{padding-left:70px;padding-right:70px;}
+.lrn .row-1 p{margin-top:20px;}
+.lrn .row-1 h5{margin-top:30px;}
+.lrn .row-1 .top{margin-top:90px;}
+.lrn .row-2 .top{margin-top:20px;}
+.lrn .row-2 h5{margin-top:30px;}
+.lrn .row-2 p{margin-top:20px;}
+.prog-det{width:100%;background-color:#f2f2f2;}
+.prog-det h3{font-size:2.5rem;font-weight:bold;margin-top:90px;font-family:monteserrat,Helvetica,Arial;}
+.rowl{margin-top:80px;}
+.rowl i{font-size:30px; color:#767676;}
+.rowl h6{font-size:0.6rem;color:#767676;}
+.rowl p{font-size:0.75rem;color:#767676;}
+.rowl .row-1{padding-right:40px;padding-left:150px;}
+.rowl .row-2{padding-right:45px;padding-left:150px;}
+.rowl .row-1 h6{margin-top:30px;}
+.rowl .row-1 p{margin-top:20px;}
+.rowl .row-2 h6{margin-top:30px;}
+.rowl .row-1 p{margin-top:20px;}
+.pricing-1{width:270px;height:320px;background-color:#fff;padding:30px;}
+.pricing-1 h6{font-size:0.6rem;font-weight:bolder;}
+.pricing-1 h5{font-size:0.7rem;font-weight:bolder;}
+.pricing-1 .btn-success{margin-top:30px;}
+.pricing-1 .prg_2{padding-top:40px;}
+
+
+
